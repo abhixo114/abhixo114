@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhixo11</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" atl="coding" width="400" src="https://cdn.solo.to/user/a/63b6fcbf08c862_89528857.jpg" >
+// <img align="right" atl="coding" width="400" src="https://cdn.solo.to/user/a/63b6fcbf08c862_89528857.jpg" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhixo114&label=Profile%20views&color=0e75b6&style=flat" alt="abhixo114" /> </p>
 
